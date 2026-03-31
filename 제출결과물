@@ -1,0 +1,7 @@
+pwd
+/Users/hong
+❯ docker info
+Client:
+ Version:    29.1.3
+ Context:    desktop-linux
+ Debug Mode: false
